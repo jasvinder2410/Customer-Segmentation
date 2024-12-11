@@ -32,8 +32,8 @@ This project focuses on using K-Means Clustering to segment customers from a mal
 
 ## 📝 Key Findings
 - Cluster 1 (Green):
- a. Annual Income: Low
- b. Spending Score: High
+ (a) Annual Income: Low
+ (b) Spending Score: High
  c. Description: Budget-conscious customers who spend a lot despite lower income.
 
 Cluster 2 (Blue):
