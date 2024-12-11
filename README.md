@@ -36,17 +36,17 @@ This project focuses on using K-Means Clustering to segment customers from a mal
   2. Spending Score: High
   3. Description: Budget-conscious customers who spend a lot despite lower income.
 
-Cluster 2 (Blue):
+- Cluster 2 (Blue):
   1. Annual Income: High
   2. Spending Score: High
   3. Description: Affluent and high-spending customers; likely premium customers.
 
-Cluster 3 (Yellow):
+- Cluster 3 (Yellow):
   1. Annual Income: Low
   2. Spending Score: Low
   3. Description: Customers with limited spending capacity; need more engagement strategies.
 
-Cluster 4 (Red):
+- Cluster 4 (Red):
   1. Annual Income: High
   2. Spending Score: Low
   3. Description: Wealthy but conservative spenders.
