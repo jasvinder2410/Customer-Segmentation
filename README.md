@@ -4,8 +4,7 @@ This project focuses on using K-Means Clustering to segment customers from a mal
 
 ## 📊 Dataset
 - Source: Mall Customers dataset.
-- Features:
-1. CustomerID: Unique identifier for each customer.
+- Features:1. CustomerID: Unique identifier for each customer.
 2. Gender: Gender of the customer.
 3. Age: Age of the customer.
 4. Annual Income (k$): Customer's annual income in thousands of dollars.
