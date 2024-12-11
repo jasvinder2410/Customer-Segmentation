@@ -3,10 +3,10 @@
 This project focuses on using K-Means Clustering to segment customers from a mall based on their spending patterns and annual income. The insights derived from this project can help businesses target specific customer groups more effectively.
 
 ## 📊 Dataset
-Source: Mall Customers dataset.
-Features:
-CustomerID: Unique identifier for each customer.
-Gender: Gender of the customer.
+- Source: Mall Customers dataset.
+- Features:
+1.CustomerID: Unique identifier for each customer.
+2.Gender: Gender of the customer.
 Age: Age of the customer.
 Annual Income (k$): Customer's annual income in thousands of dollars.
 Spending Score (1-100): Score assigned based on spending behavior.
